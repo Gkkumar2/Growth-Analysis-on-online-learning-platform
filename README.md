@@ -48,7 +48,11 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ### 2️⃣ **Paid Subscriptions Trend**  
-![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png) ![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png) 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png" alt="Paid Subscriptions" style="width: 48%;">
+</div>
+
 
 - **🔍 Insight:** Annual subscriptions dominate (70% of purchases).  
 - **🚩 Issue:** Monthly subscribers show higher churn.  
