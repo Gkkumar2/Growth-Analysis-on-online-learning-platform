@@ -28,6 +28,8 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ## 📁 **Dataset Overview**  
+![Database]()  
+
 - **Timeframe:** April 2020 - October 2023  
 - **Source:** MySQL Database  
 - **Metrics:** Registrations, Conversions, Subscriptions, Traffic Sources  
