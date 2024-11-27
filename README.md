@@ -49,8 +49,8 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 
 ### 2️⃣ **Paid Subscriptions Trend**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png" alt="Paid Subscriptions" style="width: 48%;">
-    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/anual.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/monthly.png" alt="Paid Subscriptions" style="width: 48%;">
 </div>
 
 
