@@ -21,7 +21,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 | Tool/Tech   | Purpose                           |  
 |-------------|-----------------------------------|  
 | 🐍 **Python**   | Data preprocessing & analysis      |  
-| 📊 **Power BI / Tableau** | Data visualization & dashboards |  
+| 📊 **Tableau** | Data visualization & dashboards |  
 | 🗄️ **SQL**       | Database querying                 |  
 | 📝 **GitHub**    | Version control & documentation    |  
 
