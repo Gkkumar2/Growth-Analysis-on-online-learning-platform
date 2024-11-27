@@ -1,9 +1,13 @@
 # 🚀 **Growth Analysis of an Online Learning Platform**  
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-green)  
-![GitHub](https://img.shields.io/github/license/yourusername/repositoryname)  
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/repositoryname?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/repositoryname?style=social)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
