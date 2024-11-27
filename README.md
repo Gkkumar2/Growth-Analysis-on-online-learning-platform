@@ -39,7 +39,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ## 📸 **Screenshots & Insights**
 
 ### 1️⃣ **Free Users & Conversions Analysis**  
-![Free Users & Conversions](./screenshots/free_users_conversions.png)  
+![Free Users & Conversions]([./screenshots/free_users_conversions.png](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172008.png))  
 
 - **🔍 Insight:** Peaks observed during COVID-19 and Black Friday campaigns.  
 - **📊 Conversion Rate:** Stabilizes around 4% to 6% in non-promo months.  
