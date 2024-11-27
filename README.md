@@ -66,7 +66,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ### 4️⃣ **Geographical Insights**  
-![Geographical Insights](./screenshots/geographical_insights.png)  
+![Geographical Insights](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172409.png)  
 
 - **🌍 Key Regions:** U.S. and India contribute 35% of traffic.  
 - **📱 Trend:** High mobile traffic in Africa.  
