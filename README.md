@@ -57,7 +57,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ### 3️⃣ **Visitor Traffic Analysis by Channel**  
-![Visitor Traffic](./screenshots/visitor_traffic.png)  
+![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172246.png) 
 
 - **🔍 Insight:** Organic search leads traffic, followed by social media.  
 - **📧 Success:** Email marketing drives substantial return traffic.  
