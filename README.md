@@ -28,7 +28,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ## 📁 **Dataset Overview**  
-![Database]()  
+![Database](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Front%20Session.png)  
 
 - **Timeframe:** April 2020 - October 2023  
 - **Source:** MySQL Database  
