@@ -48,7 +48,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ### 2️⃣ **Paid Subscriptions Trend**  
-![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png) 
+![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png) ![Paid Subscriptions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172148.png) 
 
 - **🔍 Insight:** Annual subscriptions dominate (70% of purchases).  
 - **🚩 Issue:** Monthly subscribers show higher churn.  
@@ -57,7 +57,7 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ---
 
 ### 3️⃣ **Visitor Traffic Analysis by Channel**  
-![Paid Subscriptions]((https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172246.png)(https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172333.png))
+![Visitor traffic Analysis](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172246.png)
 
 - **🔍 Insight:** Organic search leads traffic, followed by social media.  
 - **📧 Success:** Email marketing drives substantial return traffic.  
