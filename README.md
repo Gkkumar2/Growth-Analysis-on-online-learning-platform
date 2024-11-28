@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ---
 
-## 📝 **Problem Statement**  
-Analyzing user behavior on an online learning platform to uncover insights into growth patterns, user acquisition, conversion, and retention, ultimately guiding strategic improvements and platform optimization.
+## 📝 **Overview**  
+This project analyzes the user behavior, conversion trends, and geographic distribution of visitors, free users, and paid users on an online learning platform. The analysis aims to uncover key insights and provide actionable recommendations to improve user acquisition, retention, and overall platform growth
 
 ---
 
@@ -39,11 +39,32 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 ## 📸 **Screenshots & Insights**
 
 ### 1️⃣ **Free Users & Conversions Analysis**  
-![Free Users & Conversions](https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172008.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172008.png" alt="Paid Subscriptions" style="width: 48%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/date%20annual.png" alt="Paid Subscriptions" style="width: 48%;">
+</div>
 
-- **🔍 Insight:** Peaks observed during COVID-19 and Black Friday campaigns.  
-- **📊 Conversion Rate:** Stabilizes around 4% to 6% in non-promo months.  
-- **🛠️ Recommendation:** Target high-intent audiences during peak periods.  
+#### **Key Insights**
+- **Prominent Peaks**:  
+  - 📅 **April 2020**: Surge during COVID-19 pandemic offering free access for a month.  
+  - 📅 **October-November 2021**: Black Friday campaign offering free access.  
+- **Free User Registration Trends**:  
+  - Normal months: **2,000 to 4,000 registrations**.  
+- **Conversion Rates**:  
+  - Lower during peaks (**1.5%**).  
+  - Higher during normal months (**4%-6%**).  
+  - Declining due to shorter conversion windows.  
+- **Conversion Behavior**:  
+  - Larger campaign audiences → lower conversions.  
+  - Higher interest during quieter months → higher conversion rates.  
+- **Industry Benchmark**:  
+  - Current conversion rates (**4%-6%**) fall short of the **10% industry benchmark**.
+
+#### **Recommendations**  
+- 🎯 **Refine Campaign Targeting**: Focus on users with genuine long-term interest.  
+- 📩 **Engagement Strategy**: Implement nurturing sequences post-sign-up.  
+- 🔍 **Customer Persona Review**: Align personas with platform offerings.  
+- 🔄 **Increase Retargeting**: Utilize ads targeting engaged free users. 
 
 ---
 
@@ -54,10 +75,21 @@ Analyzing user behavior on an online learning platform to uncover insights into 
 </div>
 
 
-- **🔍 Insight:** Annual subscriptions dominate (70% of purchases).  
-- **🚩 Issue:** Monthly subscribers show higher churn.  
-- **🛠️ Recommendation:** Retention strategies with personalized follow-ups.  
+#### **Key Insights**  
+- **Purchases Trend**:  
+  - **230-330 subscriptions/month** in normal quarters.  
+- **Campaign Impact**:  
+  - Double conversions during campaigns.  
+  - Shift from direct to converted purchases post-2021.  
+- **Plan Preferences**:  
+  - Annual plans dominate over monthly plans.  
+  - Quarterly plan phased out due to low interest.
 
+#### **Recommendations**  
+- 💎 **Promote Annual Plans**: Offer incentives for long-term retention.  
+- 📢 **Address Misconceptions**: Educate users on free preview options.  
+- 📈 **Optimize Monthly Plans**: Bundle monthly plans with value-added content.  
+- 🛍️ **Encourage Upselling**: Use personalized strategies to convert monthly users to annual plans.
 ---
 
 ### 3️⃣ **Visitor Traffic Analysis by Channel**  
