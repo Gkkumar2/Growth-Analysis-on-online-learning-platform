@@ -8,6 +8,11 @@ This project analyzes the user behavior, conversion trends, and geographic distr
 
 ---
 ## 🔍 **Executive Summary**
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20171736.png" alt="Paid Subscriptions" style="width: 98%;">
+</div>
+
 This project focuses on analyzing the growth and user engagement of an online learning platform, leveraging data from free and paid users, subscription trends, visitor behaviors, and geographic insights. The primary objective was to identify patterns that drive user acquisition, conversion, retention, and regional engagement, while providing actionable recommendations to enhance overall platform performance.
 
 Key findings reveal significant growth peaks driven by campaigns and external factors, such as the COVID-19 pandemic and promotional events. Despite increased traffic, conversion rates during peak periods fell below industry benchmarks, indicating a need for refined targeting and nurturing strategies. Subscription trends indicate a preference for annual plans, though monthly plans have higher churn. Geographic data shows mobile dominance in Africa and strong user engagement from regions like the U.S. and India.
@@ -47,7 +52,7 @@ By implementing personalized marketing, strengthening regional campaigns, and en
 
 ### 1️⃣ **Free Users & Conversions Analysis**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172008.png" alt="Paid Subscriptions" style="width: 95%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20172008.png" alt="Paid Subscriptions" style="width: 98%;">
 </div>
 
 #### **Key Insights**
@@ -76,7 +81,7 @@ By implementing personalized marketing, strengthening regional campaigns, and en
 
 ### 2️⃣ **Paid Subscriptions Trend**  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/date%20annual.png" alt="Paid Subscriptions" style="width: 95%;">
+    <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/date%20annual.png" alt="Paid Subscriptions" style="width: 98%;">
 </div>
 
 
@@ -310,7 +315,7 @@ With a data-driven approach to decision-making and continuous monitoring of key 
 
 You can access the dashboard for detailed insights into the platform's performance, trends, and growth analysis by clicking the link below:
 
-[**View the Dashboard**](https://public.tableau.com/views/GrowthDataDashboard_17322939908660/Dashboard25?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**View the Dashboard**](https://public.tableau.com/views/GrowthDataDashboard_17322939908660/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Make sure to review the various visualizations and metrics that showcase the results of our analysis and help inform future strategies.
 
