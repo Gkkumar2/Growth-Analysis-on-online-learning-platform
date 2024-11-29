@@ -4,9 +4,13 @@
 ---
 
 ## 📝 **Overview**  
-<p style="text-align: justify;"
-This project focuses on  analyzing user behavior, conversion trends, and geographic distribution of visitors, free users, and paid users on an online learning platform. The analysis aims to derive actionable insights that can drive strategies to enhance user acquisition, improve retention rates, and foster overall platform growth ensuring data driven decision making while having a sustainable development.>
+<p style="text-align: justify;">
+This project focuses on  analyzing user behavior, conversion trends, and geographic distribution of visitors, free users, and paid users on an online learning platform. The analysis aims to derive actionable insights that can drive strategies to enhance user acquisition, improve retention rates, and foster overall platform growth ensuring data driven decision making while having a sustainable development.
 </p>
+<p style="text-align: justify;">
+    This project focuses on analyzing user behavior, conversion trends, and geographic distribution of visitors, free users, and paid users on an online learning platform. The analysis aims to derive actionable insights that can drive strategies to enhance user acquisition, improve retention rates, and foster overall platform growth, ensuring data-driven decision-making while promoting sustainable development.
+</p>
+
 
 
 ---
