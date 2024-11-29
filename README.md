@@ -17,6 +17,11 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20171736.png" alt="Paid Subscriptions" style="width: 98%;">
 </div>
+<br>
+<hr>
+<br>
+
+
 
 <p align="justify"> This project focuses on analyzing the growth and user engagement of an online learning platform, leveraging data from free and paid users, subscription trends, visitor behaviors, and geographic insights. The primary objective was to identify patterns that drive user acquisition, conversion, retention, and regional engagement, while providing actionable recommendations to enhance overall platform performance.</p>
 
