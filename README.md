@@ -40,7 +40,7 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 <hr>
 
-## 🛠️ **The Cutting - Edge Technologies leveraged in this project**  
+## 🛠️ **The Cutting - Edge Technologies leveraged in this Analysis Project**  
 | Tool/Tech   | Purpose                           |  
 |-------------|-----------------------------------|  
 | 🐍 **Python**   | Data preprocessing & analysis      |  
