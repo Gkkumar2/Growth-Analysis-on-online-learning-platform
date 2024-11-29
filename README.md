@@ -18,11 +18,15 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
     <img src="https://github.com/Gkkumar2/Growth-Analysis-on-online-learning-platform/blob/main/Screenshots/Screenshot%202024-11-27%20171736.png" alt="Paid Subscriptions" style="width: 98%;">
 </div>
 
+<p align="justify">
 This project focuses on analyzing the growth and user engagement of an online learning platform, leveraging data from free and paid users, subscription trends, visitor behaviors, and geographic insights. The primary objective was to identify patterns that drive user acquisition, conversion, retention, and regional engagement, while providing actionable recommendations to enhance overall platform performance.
 
 Key findings reveal significant growth peaks driven by campaigns and external factors, such as the COVID-19 pandemic and promotional events. Despite increased traffic, conversion rates during peak periods fell below industry benchmarks, indicating a need for refined targeting and nurturing strategies. Subscription trends indicate a preference for annual plans, though monthly plans have higher churn. Geographic data shows mobile dominance in Africa and strong user engagement from regions like the U.S. and India.
 
 By implementing personalized marketing, strengthening regional campaigns, and enhancing user engagement strategies, the platform can significantly improve its conversion rates, user retention, and long-term growth.
+
+</p>
+
 
 
 ## 🎯 **Project Objectives**
