@@ -333,9 +333,9 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 ---
 ## **🚀 Next Steps**
 
-1. 📈 **Conversion Optimization** - Personalize campaigns to improve on-site engagement.  
-2. 🌍 **Regional Growth Initiatives** - Expand campaigns in high-potential areas.  
-3. 📊 **Continuous Monitoring** - Adjust strategies based on emerging trends.
+1. 📈 **Conversion Optimization**- Personalize campaigns to improve on-site engagement.  
+2. 🌍 **Regional Growth Initiatives**- Expand campaigns in high-potential areas.  
+3. 📊 **Continuous Monitoring**- Adjust strategies based on emerging trends.
 ---
 
 ## 🏁 **Conclusion**
