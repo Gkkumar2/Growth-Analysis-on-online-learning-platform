@@ -70,12 +70,12 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 
 - **Prominent Peaks**:  
-  - 📅 **April 2020**: Surge during COVID-19 pandemic offering free access for a month.  
-  - 📅 **October-November 2021**: Black Friday campaign offering free access.  
+  - 📅 **April 2020** -  Surge during COVID-19 pandemic offering free access for a month.  
+  - 📅 **October-November 2021** - Black Friday campaign offering free access.  
 
 
 - **Free User Registration Trends**:  
-  - Normal months: **2,000 to 4,000 registrations**.  
+  - Normal months - **2,000 to 4,000 registrations**.  
 
 
 - **Conversion Rates**:  
@@ -158,7 +158,7 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 - **Channel Analysis**: Top 10 channels account for **99%** of traffic.
   
 - **Returning vs. New Visitors**:  
-  - **Infusionsoft**: ~**50% returning visitors** from email campaigns.  
+  - **Infusionsoft** -  ~**50% returning visitors** from email campaigns.  
 
 #### **Recommendations**  
 - 🏆 **SEO Optimization**: Strengthen organic search strategies.  
@@ -206,22 +206,22 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 ## 📌 **Key Insights**  
 
 ### 🌐 **Traffic Composition**  
-- **Total Visitors:** 482,546  
-  - **Organic Traffic:** 86% (482,546 visitors)  
-  - **Social Media Traffic:** 14% (67,263 visitors)  
+- **Total Visitors -** 482,546  
+  - **Organic Traffic-** 86% (482,546 visitors)  
+  - **Social Media Traffic-** 14% (67,263 visitors)  
     - **Facebook:** 24,000  
     - **YouTube:** 11,000  
     - **Infusionsoft (Email):** 14,000  
 
 ### 🔄 **Conversion Funnel**  
-- **Free User Registrations:** 16,000 (3.3% of total visitors)  
-- **Average Content Consumption:** 8.8 hours per registered user  
-- **Paid Conversions:** 1,126 users (0.23% of total visitors, 7% of free users)
+- **Free User Registrations-** 16,000 (3.3% of total visitors)  
+- **Average Content Consumption-** 8.8 hours per registered user  
+- **Paid Conversions-** 1,126 users (0.23% of total visitors, 7% of free users)
 
 ### 📈 **Channel Efficiency**  
-- **Organic Traffic:** High volume but lower conversion rates.  
-- **Social Media:** Lower volume but higher engagement potential.  
-- **Infusionsoft (Email):** Effective in driving high-quality, targeted traffic.
+- **Organic Traffic-** High volume but lower conversion rates.  
+- **Social Media-** Lower volume but higher engagement potential.  
+- **Infusionsoft (Email)-** Effective in driving high-quality, targeted traffic.
 
 ---
 
