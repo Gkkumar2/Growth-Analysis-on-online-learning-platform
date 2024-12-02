@@ -303,7 +303,7 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 <p align="justify">- Improve organic search rankings with the use of long-tail keywords, enhanced content (including case studies, testimonials, and success stories), and well-optimized landing pages. These SEO - based stratergies would attract more organic traffic.</p>
 
--<p align="justify"> Produce and promote educational content such as blogs, videos, and webinars that address user queries. This will drive organic traffic and enhance brand awareness.</p>
+<p align="justify">- Produce and promote educational content such as blogs, videos, and webinars that address user queries. This will drive organic traffic and enhance brand awareness.</p>
 
 ---
 
