@@ -255,9 +255,9 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 ---
 
 ## 🎯 **Expected Outcomes**  
-- 📈 **Higher Conversion Rates - ** Improved funnel performance through tailored organic and social media strategies.  
-- 🔄 **Increased Engagement - ** More engaged free users, increasing the likelihood of paid conversion.  
-- 💰 **Enhanced ROI - ** More efficient marketing spend, driving long-term growth and retention.
+- 📈 **Higher Conversion Rates -** Improved funnel performance through tailored organic and social media strategies.  
+- 🔄 **Increased Engagement -** More engaged free users, increasing the likelihood of paid conversion.  
+- 💰 **Enhanced ROI -** More efficient marketing spend, driving long-term growth and retention.
 
 ---
 
