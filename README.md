@@ -95,7 +95,7 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 #### **Recommendations**  
 - 🎯 **The campaigns should be refined focusing on users who are with genuine long-term interest**.
 - 📩 **Engagement Strategies such as  implementing nurturing sequences post-sign-up can be leveraged**.  
-- 🔍 **Customer Persona Review can be done aligning the personas with platform offerings**.
+- 🔍 **Customer Persona review can be done aligning the personas with platform offerings**.
 - 🔄 **Ads should be leveraged targeting engaged free users to appropriately retarget the population**.
 
 ---
@@ -109,18 +109,22 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 #### **Key Insights**  
 - **Purchases Trend**:  
   - **230-330 subscriptions/month** in normal quarters.  
+
+
 - **Campaign Impact**:  
   - Double conversions during campaigns.  
   - Shift from direct to converted purchases post-2021.  
+
+
 - **Plan Preferences**:  
   - Annual plans dominate over monthly plans.  
   - Quarterly plan phased out due to low interest.
 
 #### **Recommendations**  
-- 💎 **Promote Annual Plans**: Offer incentives for long-term retention.  
-- 📢 **Address Misconceptions**: Educate users on free preview options.  
-- 📈 **Optimize Monthly Plans**: Bundle monthly plans with value-added content.  
-- 🛍️ **Encourage Upselling**: Use personalized strategies to convert monthly users to annual plans.
+- 💎 **Annual plans can be promoted which can offer incentives for long term retention of users**.
+- 📢 **The users needs to be educated on free options addressing misconceptions**.
+- 📈 **Monthly plans can be bunled with Value-Added content as a process of optimization**.
+- 🛍️ **Personalized stratergies will have to be leveraged to encourage upselling of monthly users to annual plan**.
 ---
 ### **3️⃣ Subscription Analysis**
 <div style="display: flex; justify-content: space-between;">
