@@ -36,7 +36,7 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 - 🌍 To examine user traffic sources and geographical distributory locations delving into regional preferences and platform effective to enhance regional efforts.
 
-- 🛠️ Deliver highly actionable, data drive insights and recommendations to fuel user acquisition, improve retention, and achieve sustained platform performance.
+- 🛠️ Deliver highly actionable, data drive insights and recommendations to increase user acquisition, improve retention, and achieve sustained platform performance.
 
 <hr>
 
@@ -67,26 +67,36 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 </div>
 
 #### **Key Insights**
+
+
 - **Prominent Peaks**:  
   - 📅 **April 2020**: Surge during COVID-19 pandemic offering free access for a month.  
   - 📅 **October-November 2021**: Black Friday campaign offering free access.  
+
+
 - **Free User Registration Trends**:  
   - Normal months: **2,000 to 4,000 registrations**.  
+
+
 - **Conversion Rates**:  
   - Lower during peaks (**1.5%**).  
   - Higher during normal months (**4%-6%**).  
   - Declining due to shorter conversion windows.  
+
+
 - **Conversion Behavior**:  
   - Larger campaign audiences → lower conversions.  
   - Higher interest during quieter months → higher conversion rates.  
+
+
 - **Industry Benchmark**:  
   - Current conversion rates (**4%-6%**) fall short of the **10% industry benchmark**.
 
 #### **Recommendations**  
-- 🎯 **Refine Campaign Targeting**: Focus on users with genuine long-term interest.  
-- 📩 **Engagement Strategy**: Implement nurturing sequences post-sign-up.  
-- 🔍 **Customer Persona Review**: Align personas with platform offerings.  
-- 🔄 **Increase Retargeting**: Utilize ads targeting engaged free users. 
+- 🎯 **The campaigns should be refined focusing on users who are with genuine long-term interest**.
+- 📩 **Engagement Strategies such as  implementing nurturing sequences post-sign-up can be leveraged**.  
+- 🔍 **Customer Persona Review can be done aligning the personas with platform offerings**.
+- 🔄 **Ads should be leveraged targeting engaged free users to appropriately retarget the population**.
 
 ---
 
