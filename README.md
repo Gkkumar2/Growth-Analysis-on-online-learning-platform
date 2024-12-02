@@ -134,13 +134,15 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 #### **Key Insights**  
 - **Stability**: Subscriptions stable over the last 30 days.  
+
 - **Churn Rate**: Monthly churn ~**25%**.  
+
 - **Retention Patterns**: Growth driven by resurrected and retained users.
 
 #### **Recommendations**  
-- 🎁 **Churn Reduction Strategy**: Introduce loyalty rewards and retention offers.  
-- 📧 **Increase Engagement Touchpoints**: Regular emails and in-app notifications.  
-- 📊 **Analyze Resurrected Users**: Identify characteristics for future campaigns.
+- 🎁 **As a churn reduction stratergy, loyalty rewards and also retention offers can be introduced**.
+- 📧 **Engagement touchpoints can be enhanced by utilizing regular emails and also in-app notifications**.
+- 📊 **Resurrected users needs to be identified to study characteristics and plan future campaigns**.
 
 ---
 
@@ -152,7 +154,9 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 
 #### **Key Insights**  
 - **Visitor Trends**: Weekly visitors **30,000-40,000**.  
-- **Channel Analysis**: Top 10 channels account for **99%** of traffic.  
+
+- **Channel Analysis**: Top 10 channels account for **99%** of traffic.
+  
 - **Returning vs. New Visitors**:  
   - **Infusionsoft**: ~**50% returning visitors** from email campaigns.  
 
@@ -175,13 +179,16 @@ This project focuses on analyzing user behavior, conversion trends, and geograph
 - **Device Distribution**:  
   - Mobile usage highest in **Africa**.  
   - Lowest in **France** and **China**.  
+
+
 - **Session & Payment Distribution**:  
   - U.S. leads with **20% of sessions** and **28% of purchases**.  
 
 #### **Recommendations**  
-- 🌍 **Regional Campaigns**: Target high-potential regions like **Africa** and **India**.  
-- 📱 **Mobile Optimization**: Improve UX for mobile-dominant regions.  
-- 🛒 **Localized Offers**: Region-specific discounts to boost conversions.
+- 🌍 **Regional campaigns can be done targeting the insightful potential regions such as Africe and India**. 
+- 📱 **The UX for mobile-dominant regions needs to be optimized**.
+- 🛒 **Region-specific offers and discounts can be provided to boost coversions among the locals of those specific regions**.
+
 
 ---
 # 🚀 **Visitor-to-Paid Funnel Analysis for July 1, 2022 – October 31, 2022**
